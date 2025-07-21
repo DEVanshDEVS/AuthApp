@@ -1,1 +1,2 @@
--e "node_modules/\n.env" 
+-e "node_modules/
+n.env" 
